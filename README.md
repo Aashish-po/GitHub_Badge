@@ -12,11 +12,19 @@ A comprehensive guide to earning GitHub achievements—both the legitimate (geni
 
 ## 📋 Table of Contents
 
+- [Overview](#overview)
 - [Repo Structure](#repo-structure)
-- [Badge Categories](#badge-categories)
 - [Quick Start](#quick-start)
-- [How to Use This Repo](#how-to-use-this-repo)
+- [Badge Categories](#badge-categories)
+- [Setup](#setup)
+- [How to Use](#how-to-use-this-repo)
+- [Tools & Resources](#tools-included)
+- [Risk Levels](#risk-levels)
+- [GitHub Highlights](#github-highlights-special-badges)
 - [Contributing](#contributing)
+- [Resources](#resources)
+- [License](#license)
+- [Support & Community](#support--community)
 
 ---
 
@@ -25,13 +33,21 @@ A comprehensive guide to earning GitHub achievements—both the legitimate (geni
 ```
 GitHub__Badge/
 ├── README.md                          # Main documentation (this file)
+├── LICENSE                            # MIT License
+├── CHANGELOG.md                       # Version history and updates
+├── CODE_OF_CONDUCT.md                 # Community guidelines
+├── SECURITY.md                        # Security policy & vulnerability reporting
+├── CONTRIBUTING.md                    # Contribution guidelines
 ├── QUICK_START.md                     # Fast track to badge earning (30-day plan)
 ├── GENIUS_METHODS.md                  # Legitimate ways (recommended)
 ├── HACK_METHODS.md                    # Creative exploits (educational)
-├── CONTRIBUTING.md                    # Contribution guidelines
 ├── badge-tracker.py                   # Track progress toward badges
 ├── setup.sh                           # Setup script for macOS/Linux
 ├── setup.bat                          # Setup script for Windows
+├── Media/                             # Badge and highlight assets
+│   ├── Badges/                        # Badge SVG/PNG files with docs
+│   ├── Highlights/                    # Highlight badges (GitHub Pro, etc.)
+│   └── Misc/                          # GitHub logos and emojis
 ├── .venv/                             # Virtual environment directory (auto-generated)
 └── .gitignore                         # Git ignore configuration
 ```
@@ -271,13 +287,58 @@ See `CONTRIBUTING.md` for details.
 
 ## 📝 License
 
-MIT License — Use freely, credit appreciated.
+MIT License © 2024 GitHub__Badge Contributors
+
+This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
+
+**You are free to:**
+- ✅ Use commercially
+- ✅ Modify the source
+- ✅ Distribute copies
+- ✅ Use privately
+
+**You must:**
+- ✅ Include license and copyright notice
+- ✅ State changes made
 
 ---
 
-## 👤 Author
+## Support & Community
 
-Created by **@Aashish-po** | Fork & adapt for your own use.
+### Get Help
+
+- 📖 **Documentation:** Read guides in this repo
+- 💬 **Discussions:** Open GitHub Discussions
+- 🐛 **Bug Reports:** [Create an issue](https://github.com/Aashish-po/GitHub__Badge/issues)
+- 🔒 **Security Issues:** See [SECURITY.md](SECURITY.md)
+
+### Code of Conduct
+
+We have a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive community.
+
+### Version History
+
+See [CHANGELOG.md](CHANGELOG.md) for:
+- Version history
+- Feature updates
+- Breaking changes
+- Deprecations
+
+### Contributors
+
+This project is maintained by [@Aashish-po](https://github.com/Aashish-po) and the community.
+
+Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## 👤 Author & Attribution
+
+**Created by:** [@Aashish-po](https://github.com/Aashish-po)  
+**License:** MIT  
+**Last Updated:** April 5, 2024
+
+Fork & adapt for your own use. ⭐ Star if helpful!
 
 ---
 
