@@ -197,7 +197,7 @@ python3 tools/discussion-monitor.py --repo kubernetes/kubernetes
 │ Badge           │ Bronze   │ Silver  │ Gold     │
 ├─────────────────┼──────────┼─────────┼──────────┤
 │ Pull Shark      │ 4 PRs    │ 16 PRs  │ 128 PRs  │
-│ Starstruck      │ 16 ⭐    │ 128 ⭐  │ 512 ⭐   │
+│ Starstruck      │ 16       │ 128     │ 512      │
 │ Galaxy Brain    │ 1 ans    │ 10 ans  │ 25 ans   │
 │ Pair Extraord.  │ 1 commit │ 10 com  │ 24 com   │
 └─────────────────┴──────────┴─────────┴──────────┘
