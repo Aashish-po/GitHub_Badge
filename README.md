@@ -275,3 +275,4 @@ Created by **@Aashish-po** | Fork & adapt for your own use.
 
 **Remember:** Genius badges are achievements you can be proud of. Hack badges are fun to learn from, but use wisely. 🎓
 # GitHub_Badge
+# GitHub_Badge
