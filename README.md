@@ -19,35 +19,17 @@ A comprehensive guide to earning GitHub achievements—both the legitimate (geni
 ## 🗂️ Repo Structure
 
 ```
-github-badges-hack-genius/
-├── README.md                          # This file
-├── QUICK_START.md                     # Fast track to badge earning
+GitHub__Badge/
+├── README.md                          # Main documentation (this file)
+├── QUICK_START.md                     # Fast track to badge earning (30-day plan)
 ├── GENIUS_METHODS.md                  # Legitimate ways (recommended)
 ├── HACK_METHODS.md                    # Creative exploits (educational)
-├── badges/
-│   ├── pull-shark/
-│   │   ├── GENIUS.md
-│   │   ├── HACK.md
-│   │   └── tools/
-│   ├── starstruck/
-│   │   ├── GENIUS.md
-│   │   ├── HACK.md
-│   │   └── tools/
-│   ├── galaxy-brain/
-│   ├── quickdraw/
-│   ├── pair-extraordinaire/
-│   ├── yolo/
-│   ├── sponsor/
-│   └── arctic-code-vault/              # Historical (not earnable)
-├── tools/
-│   ├── badge-tracker.py               # Track progress toward badges
-│   ├── pr-automation.js                # Auto-create PRs for testing
-│   └── discussion-monitor.py           # Monitor discussions for answers
-├── guides/
-│   ├── github-api-tricks.md            # API-based workarounds
-│   ├── automation-setup.md             # Bot/workflow setup
-│   └── community-strategy.md           # Social approach
-└── CONTRIBUTING.md
+├── CONTRIBUTING.md                    # Contribution guidelines
+├── badge-tracker.py                   # Track progress toward badges
+├── setup.sh                           # Setup script for macOS/Linux
+├── setup.bat                          # Setup script for Windows
+├── .venv/                             # Virtual environment directory (auto-generated)
+└── .gitignore                         # Git ignore configuration
 ```
 
 ---
