@@ -1,5 +1,9 @@
 # 🎯 HACK METHODS — Complete Guide
 
+<div align="center">
+  <img src="Media/Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_LightMode.svg" alt="Caution" width="200">
+</div>
+
 **The creative, fast, risky ways to earn badges using automation and exploits.**
 
 ⚠️ **WARNING:** Most hack methods violate GitHub Terms of Service. This guide is for **educational purposes only**. Use at your own risk.
@@ -58,6 +62,8 @@ Hack methods:
 ## Badge-by-Badge Hacks
 
 ### 🦈 Pull Shark Hacks
+
+![Pull Shark Badge](Media/Badges/Pull-Shark/PNG/PullShark.png)
 
 **Hack 1: Self-Merge Empty Repos** 🟢
 ```bash
@@ -149,6 +155,8 @@ Create 5 alt accounts
 
 ### 🌟 Starstruck Hacks
 
+![Starstruck Badge](Media/Badges/Star-Struck/PNG/StarStruck_Bronze.png)
+
 **Hack 1: Bot Star Farm** 🔴
 ```python
 # Use bot network to star your repo
@@ -205,6 +213,8 @@ Create fake accounts that look real
 ---
 
 ### 🌠 Galaxy Brain Hacks
+
+![Galaxy Brain Badge](Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png)
 
 **Hack 1: Self-Answer Questions** 🟡
 ```

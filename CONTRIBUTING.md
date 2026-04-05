@@ -1,5 +1,9 @@
 # 🤝 Contributing Guidelines
 
+<div align="center">
+  <img src="Media/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_LightMode.svg" alt="Community" width="200">
+</div>
+
 Want to improve this repo? Great! Here's how.
 
 ---

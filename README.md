@@ -1,5 +1,9 @@
 # GitHub Badges: Hack vs Genius Edition 🏆
 
+<div align="center">
+  <img src="Media/Misc/GitHub_Logo/pinned-octocat.svg" alt="GitHub Octocat" width="150">
+</div>
+
 A comprehensive guide to earning GitHub achievements—both the legitimate (genius) way and the creative (hack) way.
 
 > **Disclaimer:** This repo is for educational purposes. Hack methods may violate GitHub ToS. Use at your own risk. Always prefer genius methods for real profiles.
@@ -40,28 +44,28 @@ GitHub__Badge/
 
 | Badge | Variants | Genius | Hack | Difficulty |
 |-------|----------|--------|------|------------|
-| **YOLO** | None | Merge PR without review in own repo | Self-merge instantly in empty repo | ⭐ |
-| **Quickdraw** | None | Merge PR <5min after opening | Merge in own repo immediately | ⭐ |
-| **Sponsor** | None | Pay $1+ to GitHub Sponsors | Use alt account to sponsor yourself (TOS violation) | ⭐⭐ |
+| ![YOLO](Media/Badges/YOLO/PNG/YOLO_Badge.png) **YOLO** | None | Merge PR without review in own repo | Self-merge instantly in empty repo | ⭐ |
+| ![Quick-Draw](Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png) **Quickdraw** | None | Merge PR <5min after opening | Merge in own repo immediately | ⭐ |
+| ![Sponsor](Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png) **Sponsor** | None | Pay $1+ to GitHub Sponsors | Use alt account to sponsor yourself (TOS violation) | ⭐⭐ |
 
 ### Tier 2: Medium (Effort-Based)
 
 | Badge | Variants | Genius | Hack | Difficulty |
 |-------|----------|--------|------|------------|
-| **Pull Shark** | Bronze, Silver, Gold | Contribute to open-source, get PRs merged | Generate fake commits, merge in bulk | ⭐⭐ |
-| **Pair Extraordinaire** | Bronze, Silver, Gold | Co-author commits with real collaborators | Use co-author syntax in your own commits | ⭐⭐⭐ |
-| **Galaxy Brain** | Bronze, Silver, Gold | Answer discussions helpfully | Answer your own questions, get friend to mark as solved | ⭐⭐⭐ |
+| ![Pull Shark](Media/Badges/Pull-Shark/PNG/PullShark.png) **Pull Shark** | Bronze, Silver, Gold | Contribute to open-source, get PRs merged | Generate fake commits, merge in bulk | ⭐⭐ |
+| ![Pair Extraordinaire](Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png) **Pair Extraordinaire** | Bronze, Silver, Gold | Co-author commits with real collaborators | Use co-author syntax in your own commits | ⭐⭐⭐ |
+| ![Galaxy Brain](Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png) **Galaxy Brain** | Bronze, Silver, Gold | Answer discussions helpfully | Answer your own questions, get friend to mark as solved | ⭐⭐⭐ |
 
 ### Tier 3: Hard (Skill/Community)
 
 | Badge | Variants | Genius | Hack | Difficulty |
 |-------|----------|--------|------|------------|
-| **Starstruck** | Bronze, Silver, Gold | Build an awesome project, promote it | Bot farm stars, exchange stars with friends | ⭐⭐⭐⭐ |
+| ![Star-Struck](Media/Badges/Star-Struck/PNG/StarStruck_Bronze.png) **Starstruck** | Bronze, Silver, Gold | Build an awesome project, promote it | Bot farm stars, exchange stars with friends | ⭐⭐⭐⭐ |
 
 ### Tier 4: Historical (Unobtainable)
 
-- Arctic Code Vault Contributor
-- Mars 2020 Contributor
+- ![Arctic Code Vault](Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png) **Arctic Code Vault Contributor**
+- ![Mars 2020 Contributor](Media/Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png) **Mars 2020 Contributor**
 
 ---
 
@@ -103,10 +107,10 @@ GitHub__Badge/
 
 ### For Genius Methods (Recommended)
 
-1. **Start with YOLO & Quickdraw:** Create a simple repo, make quick PRs, merge them.
-2. **Build Pull Shark:** Contribute to 5-10 beginner-friendly open-source repos.
-3. **Answer Questions (Galaxy Brain):** Join active repos' discussions, solve real problems.
-4. **Star-Hunt (Starstruck):** Build a useful tool and market it.
+1. **Start with ![YOLO](Media/Badges/YOLO/PNG/YOLO_Badge.png) YOLO & ![Quickdraw](Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png) Quickdraw:** Create a simple repo, make quick PRs, merge them.
+2. **Build ![Pull Shark](Media/Badges/Pull-Shark/PNG/PullShark.png) Pull Shark:** Contribute to 5-10 beginner-friendly open-source repos.
+3. **Answer Questions (![Galaxy Brain](Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png) Galaxy Brain):** Join active repos' discussions, solve real problems.
+4. **Star-Hunt (![Starstruck](Media/Badges/Star-Struck/PNG/StarStruck_Bronze.png) Starstruck):** Build a useful tool and market it.
 
 **Estimated time:** 2-6 weeks for bronze badges.
 
@@ -219,6 +223,28 @@ python3 tools/discussion-monitor.py --repo kubernetes/kubernetes
 - Spam discussions
 - Account manipulation
 - Cross-account sponsorship schemes
+
+---
+
+## 🌟 GitHub Highlights (Special Badges)
+
+Beyond regular badges, GitHub also offers **Highlights** that display on your profile:
+
+<div align="center">
+
+**🔒 Security Achievements**
+
+| Security Bug Bounty Hunter | Security Advisory Credit |
+|:---:|:---:|
+| ![Security Bug Bounty](Media/Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_LightMode.svg) | ![Security Advisory](Media/Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_LightMode.svg) |
+
+**💻 Developer Programs**
+
+| GitHub Pro | GitHub Campus Expert | Developer Program Member |
+|:---:|:---:|:---:|
+| ![Pro](Media/Highlights/GitHub-Pro/SVG/GitHub-Pro_LightMode.svg) | ![Campus](Media/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_LightMode.svg) | ![Developer](Media/Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_LightMode.svg) |
+
+</div>
 
 ---
 

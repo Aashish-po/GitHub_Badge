@@ -1,5 +1,9 @@
 # 🧠 GENIUS METHODS — Complete Guide
 
+<div align="center">
+  <img src="Media/Highlights/GitHub-Pro/SVG/GitHub-Pro_LightMode.svg" alt="GitHub Pro" width="200">
+</div>
+
 **The legitimate, sustainable, skill-building way to earn GitHub badges.**
 
 ---
@@ -19,6 +23,8 @@ Genius methods:
 ## Badge-by-Badge Guide
 
 ### 🦈 Pull Shark
+
+![Pull Shark Badge](Media/Badges/Pull-Shark/PNG/PullShark.png)
 
 **Goal:** Get merged PRs in public repositories.
 
@@ -48,6 +54,8 @@ Genius methods:
 ---
 
 ### 🌟 Starstruck
+
+![Starstruck Badge](Media/Badges/Star-Struck/PNG/StarStruck_Bronze.png)
 
 **Goal:** Get 16+ stars on a single repo.
 
@@ -84,6 +92,8 @@ Genius methods:
 ---
 
 ### 🌠 Galaxy Brain
+
+![Galaxy Brain Badge](Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png)
 
 **Goal:** Get answers marked as "accepted" in GitHub Discussions.
 
@@ -122,7 +132,7 @@ Genius methods:
 ---
 
 ### 💬 Pair Extraordinaire
-
+![Pair Extraordinaire Badge](Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png)
 **Goal:** Co-author commits on merged PRs.
 
 **Genius Approach:**
@@ -161,6 +171,8 @@ Co-authored-by: Another Dev <another@example.com>"
 
 ### 💝 Sponsor
 
+![Sponsor Badge](Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png)
+
 **Goal:** Sponsor a developer or organization.
 
 **Genius Approach:**
@@ -187,6 +199,8 @@ Co-authored-by: Another Dev <another@example.com>"
 ---
 
 ### ⚡ Quickdraw
+
+![Quickdraw Badge](Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png)
 
 **Goal:** Close a PR or issue within 5 minutes.
 
@@ -215,7 +229,7 @@ gh pr merge <number> --merge  # Merge within 5 min!
 ---
 
 ### 🦄 YOLO
-
+![YOLO Badge](Media/Badges/YOLO/PNG/YOLO_Badge.png)
 **Goal:** Merge a PR without review.
 
 **Genius Approach:**

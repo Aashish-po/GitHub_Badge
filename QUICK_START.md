@@ -1,5 +1,9 @@
 # ⚡ GitHub Badges: 30-Day Quick Start
 
+<div align="center">
+  <img src="Media/Misc/GitHub_Logo/pinned-octocat.svg" alt="GitHub" width="150">
+</div>
+
 **Can you get badges in 30 days? Yes. Here's how.**
 
 ---
@@ -32,12 +36,12 @@ pip install requests
 
 | Badge | Goal | Achievable? |
 |-------|------|------------|
-| YOLO | 1 | ✅ Day 1 |
-| Quickdraw | 1 | ✅ Day 1 |
-| Pull Shark Bronze | 4 PRs | ✅ Day 30 |
-| Sponsor | 1 | ✅ Day 1 ($1) |
-| Galaxy Brain Bronze | 1 answer | ⚠️ Possible |
-| Starstruck Bronze | 16 stars | ⚠️ Unlikely (needs 1 great project) |
+| ![YOLO](Media/Badges/YOLO/PNG/YOLO_Badge.png) **YOLO** | 1 | ✅ Day 1 |
+| ![Quickdraw](Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png) **Quickdraw** | 1 | ✅ Day 1 |
+| ![Pull Shark](Media/Badges/Pull-Shark/PNG/PullShark.png) **Pull Shark Bronze** | 4 PRs | ✅ Day 30 |
+| ![Sponsor](Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png) **Sponsor** | 1 | ✅ Day 1 ($1) |
+| ![Galaxy Brain](Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png) **Galaxy Brain Bronze** | 1 answer | ⚠️ Possible |
+| ![Starstruck](Media/Badges/Star-Struck/PNG/StarStruck_Bronze.png) **Starstruck Bronze** | 16 stars | ⚠️ Unlikely (needs 1 great project) |
 
 **Realistic 30-day result:** 3-4 badges minimum, with effort.
 
@@ -49,7 +53,7 @@ pip install requests
 
 #### Day 1 (Monday)
 
-**Goal:** Get YOLO + Quickdraw
+**Goal:** Get ![YOLO](Media/Badges/YOLO/PNG/YOLO_Badge.png) YOLO + ![Quickdraw](Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png) Quickdraw
 
 ```bash
 # Create test repo
@@ -91,7 +95,7 @@ gh pr merge <PR_NUMBER> --merge
 
 #### Day 2 (Tuesday)
 
-**Goal:** Start Pull Shark
+**Goal:** Start ![Pull Shark](Media/Badges/Pull-Shark/PNG/PullShark.png) Pull Shark
 
 - Find first "good first issue"
 - Fork the repo
@@ -117,7 +121,7 @@ is:open is:issue label:good-first-issue language:python
 
 ---
 
-### WEEK 2-3: Build for Starstruck
+### WEEK 2-3: Build for ![Starstruck](Media/Badges/Star-Struck/PNG/StarStruck_Bronze.png) Starstruck
 
 **Parallel to PRs:** Build a simple project
 
